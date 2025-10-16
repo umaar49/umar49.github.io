@@ -950,11 +950,11 @@ section {
   color: #A020F0;
 }
 
-.services .iconbox-purple :hover .icon i {
+.services .iconbox-purple:hover .icon i {
   color: #fff;
 }
 
-.services .iconbox-purple :hover .icon path {
+.services .iconbox-purple:hover .icon path {
   fill: #A020F0;
 }
 .services .iconbox-orange i {
