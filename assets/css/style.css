@@ -946,6 +946,20 @@ section {
   fill: #47aeff;
 }
 
+.services .iconbox-purple i {
+  color: #A020F0;
+}
+
+.services .iconbox-purple :hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-purple :hover .icon path {
+  fill: #A020F0;
+}
+.services .iconbox-orange i {
+  color: #ffa76e;
+}
 .services .iconbox-skyblue i {
   color: #87ceeb;
 }
@@ -957,10 +971,6 @@ section {
 .services .iconbox-skyblue:hover .icon path {
   fill: #87ceeb;
 }
-.services .iconbox-orange i {
-  color: #ffa76e;
-}
-
 .services .iconbox-orange:hover .icon i {
   color: #fff;
 }
