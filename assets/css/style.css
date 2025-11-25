@@ -946,6 +946,17 @@ section {
   fill: #47aeff;
 }
 
+.services .iconbox-red i {
+  color: #FF0000;
+}
+
+.services .iconbox-red:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-red:hover .icon path {
+  fill: #FF0000;
+}
 .services .iconbox-purple i {
   color: #A020F0;
 }
